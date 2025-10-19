@@ -308,7 +308,7 @@ This project is for educational and commercial use.
 
 **Jeet Pramanik**
 - GitHub: [@jeet-pramanik](https://github.com/jeet-pramanik)
-- Email: jeetpramanik516@gmail.com
+
 
 ---
 
